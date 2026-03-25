@@ -68,6 +68,7 @@ The schema is normalized up to Third Normal Form (3NF):
 ⸻
 
 🗂 Project Structure
+```
 online-retail-sales-db/
 │
 ├── ER_Diagram.png
@@ -75,6 +76,7 @@ online-retail-sales-db/
 ├── sample_data.sql
 ├── queries.sql
 └── README.md
+```
 
 🏗 Database Schema Features
 	•	Primary Keys
